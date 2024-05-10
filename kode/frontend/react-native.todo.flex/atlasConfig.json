@@ -1,0 +1,9 @@
+{
+    "appId": "kode-yqmngoj",
+    "appUrl": "https://services.cloud.mongodb.com/groups/65ed41a3f53bcb344c184b72/apps/663e05b30dc4914a25576b86",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/65ed41a3f53bcb344c184b72/explorer/mb-cluster/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
